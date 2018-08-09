@@ -1,0 +1,66 @@
+#header {
+ border-radius: 2px;
+
+  text-align: right;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  display: grid;
+  grid-template-columns: auto auto;
+  max-height: auto;
+  box-shadow: 0px 2px 4px black;
+  text-shadow: .1px .5px 1px black;
+}
+
+
+.globalcolor{
+  background-color:rgb(255,50,50);
+}
+
+
+#quote-box{
+
+  background-color:rgb(0,0,0);
+  width-min:400px;
+  width-max:auto;
+  height-min:200px;
+  height-max:auto;
+  margin:auto;
+  margin-top:50px;
+  margin-bottom:50px;
+  margin-left:100px;
+  margin-right:100px;
+  border-radius:10pt;
+  padding-top:50px;
+  padding-bottom:20px;
+  box-shadow: 0px 2px 50px white;
+}
+#main {
+  position:relative;
+  top:2px;
+}
+#quote{
+  color:rgb(200,200,200);
+  font-family:Serif, Helvetica;
+  font-size:32pt;
+  margin-left: 10px;
+  margin-right:10px;
+  text-shadow: 0px 0px 8px rgb(255,50,50);
+}
+#newQuote{
+  margin-left:80%;
+  margin-top: 30px;
+  color:white;
+}
+.subbutton{
+  margin-top:30px;
+  margin-left:30px;
+  margin-right:-25px;
+  color:white;
+}
+h2 {
+  padding-right:50px;
+}
+
+.dropshadow {
+  text-shadow: 0px 0px 3px black;
+}
